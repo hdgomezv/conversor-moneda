@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ad9b900-8c52-42fe-adc4-8b15679e2bab" name="Changes" comment="Iniciando proyecto java con uso de API">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/conversorapp/modelos/Convertidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/conversorapp/modelos/MedidasConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4ad9b900-8c52-42fe-adc4-8b15679e2bab" name="Changes" comment="Construccion de la APP, aun genera errores en la consecución de la información">
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/conversorapp/principal/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversor-moneda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/conversor-moneda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/conversorapp/modelos/Convertidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/conversorapp/modelos/Convertidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/conversorapp/modelos/MedidasConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/conversorapp/modelos/MedidasConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Principal.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Programacion/GSON/gson-2.10.1.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programacion/GSON/gson-2.10.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aluracursos.conversorapp.principal.Principal" />
@@ -96,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715027726681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Construccion de la APP, aun genera errores en la consecución de la información">
+      <option name="closed" value="true" />
+      <created>1715285704813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715285704813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciando proyecto java con uso de API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando proyecto java con uso de API" />
+    <MESSAGE value="Construccion de la APP, aun genera errores en la consecución de la información" />
+    <option name="LAST_COMMIT_MESSAGE" value="Construccion de la APP, aun genera errores en la consecución de la información" />
   </component>
 </project>

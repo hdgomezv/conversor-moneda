@@ -1,11 +1,23 @@
 package com.aluracursos.conversorapp.modelos;
 
-import java.util.Map;
+import java.util.List;
 
 class MedidasConversion {
     public CodigoIsoMonedas medidasConversion;
 }
 
 class CodigoIsoMonedas {
-    Map<String, Double> rates;
+
+    List<TazaCambio>    rates;
+}
+
+
+class TazaCambio {
+    String currency;
+    double rate;
+
+    public TazaCambio(String currency, double rate) {
+        this.currency = currency;
+        this.rate     = rate;
+    }
 }
