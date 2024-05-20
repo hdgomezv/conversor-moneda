@@ -1,7 +1,16 @@
-CONVERSOR DE MONEDAS CON USO DE API
-Proyecto para Alura - Oracle
+# CONVERSOR DE MONEDAS CON USO DE API Proyecto para Alura - Oracle
 
-API
+Este proyecto busca evaluar el aprendizaje obtenido a traves del curso para Backend impartido por Alura y Oracle para el proyecto ONE .
 
-https://v6.exchangerate-api.com/v6/dbe7c5601aea34fce8047990/latest/USD
-by Hernan David Gomez Vergara
+## Tabla de Contenidos
+
+
+
+## Descripción
+
+El siguiente es un proyecto por consola que mediante el uso de POO crea un programa que usa una API de actualizacion diaria para convertir un monto proporcionado por el usuario final. 
+
+
+## Requisitos Previos
+
+- Java
